@@ -18,43 +18,42 @@
 
 
 ### Description 
-- Narzędzia, które ułatwiają prace administracji serwera
-  - **Admin ESP** - Plugin, który pozwala adminom widzieć innych graczy przez ściany
-  - **Admin Freelook** - Plugin, pozwala adminom sprawdzać każdy team, nie muszą wchodzić na SPECT'a
-  - **Admin IP** - Plugin pozwala wydrukować listę graczy wraz z ich adresami IP
-  - **Admin Listen** - Plugin dzięki, któremu admin widzi wszystkie wiadomości na say oraz słyszy wszystkie rozmowy graczy
-  - **Admin Voice** - Plugin, który dodaje voice chat dla adminów w celu lepszej komunikacji
-  - **Admin Chat** - Plugin został odświeżony, zostały dodane do niego nowe kolory, wiadomości na say również zostały odświeżone
+- Narzędzia, które ułatwiają prace administracji serwera:
+  - **Admin ESP** - plugin, który pozwala adminom widzieć innych graczy przez ściany,
+  - **Admin Freelook** - plugin, pozwala adminom sprawdzać każdy team, nie muszą wchodzić na SPECT'a,
+  - **Admin IP** - plugin pozwala wydrukować listę graczy wraz z ich adresami IP,
+  - **Admin Listen** - plugin dzięki, któremu admin widzi wszystkie wiadomości na say oraz słyszy wszystkie rozmowy graczy,
+  - **Admin Voice** - plugin, który dodaje voice chat dla adminów w celu lepszej komunikacji,
+  - **Admin Chat** - plugin został odświeżony, zostały dodane do niego nowe kolory, wiadomości na say również zostały odświeżone.
 
-- Pluginy, które urozmaicają rozgrywke
-  - **ABD** - Zaawansowany system pokazywania obrażeń
-  - **Assist** - System asyst, tak żeby każdy gracz był zadowolony i nie mówił, że nic nie ma z zabójstwa
-  - **Bomb Timer** - Licznik do wybuchu bomby, prosty, informacyjny
-  - **Limit Ping** - Wyrzucanie Graczy za zbyt duży ping
-  - **Medals** - System medali, medale zdobywane są za zostanie najlepszym graczem mapy
-  - **Menu** - Menu serwera, mały pomocnik dla nowych graczy
-  - **MVP** - System najlepszego gracza rundy, najlepszy gracz rundy otrzymuje również dodatkowe punkty do rang
-  - **No Team Flash** - Jak sama nazwa wskazuje, anty flash dla teamu
-  - **Parachute** - Zoptymalizowany spadochron
-  - **Ranks** - Rozbudowany system rang
-  - **Reset Score** - Gracz otrzymuje możliwość zrestartowania statystyk
-  - **Round Sound** - Muzyka na sam koniec rundy, z zapisem opcji włącz/wyłącz
-  - **Server Hud** - Informacyjny HUD w lewym górnym rogu
-  - **VIP** - System VIP
+- Pluginy, które urozmaicają rozgrywke:
+  - **ABD** - zaawansowany system pokazywania obrażeń,
+  - **Assist** - system asyst, tak żeby każdy gracz był zadowolony i nie mówił, że nic nie ma z zabójstwa,
+  - **Bomb Timer** - licznik do wybuchu bomby, prosty, informacyjny,
+  - **Limit Ping** - wyrzucanie Graczy za zbyt duży ping,
+  - **Medals** - system medali, medale zdobywane są za zostanie najlepszym graczem mapy,
+  - **Menu** - menu serwera, mały pomocnik dla nowych graczy,
+  - **MVP** - system najlepszego gracza rundy, najlepszy gracz rundy otrzymuje również dodatkowe punkty do rang,
+  - **No Team Flash** - jak sama nazwa wskazuje, anty flash dla teamu,
+  - **Parachute** - zoptymalizowany spadochron,
+  - **Ranks** - rozbudowany system rang,
+  - **Reset Score** - gracz otrzymuje możliwość zrestartowania statystyk,
+  - **Round Sound** - muzyka na sam koniec rundy, z zapisem opcji włącz/wyłącz,
+  - **Server Hud** - informacyjny HUD w lewym górnym rogu,
+  - **VIP** - system VIP.
 
 
 ### VIP
 - VIP posiada:
-  - Menu broni dostępne od X rundy
-  - Status **VIP** w Tabeli [TAB]
-  - Prefix **VIP** na czacie
-  - Dodatkowe HP za fraga X HP | X HP za HS
-  - Dodatkowe dolary za fraga X$ | X$ HS
-  - Granaty dostępne od X rundy
-  - Deagle dostępny od X rundy 
+  - Menu broni dostępne od X rundy,
+  - Status **VIP** w Tabeli [TAB],
+  - Prefix **VIP** na czacie,
+  - Dodatkowe HP za fraga X HP | X HP za HS,
+  - Dodatkowe dolary za fraga X$ | X$ HS,
+  - Granaty dostępne od X rundy,
+  - Deagle dostępny od X rundy.
   
 *X - ustawienie cvarów*
-
 
 ### Configure
 - Każdy plugin posiada własne cvary, dzięki którym możemy sami ustawić sobie dosłownie wszystko.
