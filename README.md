@@ -2,7 +2,7 @@
 
 ## Paczka Only DD2 - Wersja Mini.
 
-<img src="https://i.imgur.com/LPsTt48.png"></img>
+<img src="https://raw.githubusercontent.com/AMXX4u/DD2-1/main/assets/dd2_mini.png"></img>
 
 </div>
 
