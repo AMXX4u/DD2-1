@@ -345,11 +345,11 @@
   
 - TOP Medale
 
-  <img width="951" height="473" src="https://github.com/AMXX4u/DD2-1/blob/main/assets/top_medale.png"></img>
+  <img width="951" height="473" src="https://github.com/AMXX4u/DD2-1/blob/main/assets/medals.png"></img>
   
 - TOP Rangi
 
-  <img width="951" height="473" src="https://github.com/AMXX4u/DD2-1/blob/main/assets/top_rangi.png"></img>
+  <img width="951" height="473" src="https://github.com/AMXX4u/DD2-1/blob/main/assets/ranks.png"></img>
 </details>
 
 ### Requirements 
